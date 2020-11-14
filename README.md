@@ -64,3 +64,9 @@ $ git pop                                                     # use this command
 
 $ git pull                                                    # usual command to pull changes from one branch to another within your own repository
 ```
+
+- Done with the branch? Delete it.
+
+```bash
+$ git branch -d <branch-name>
+```
