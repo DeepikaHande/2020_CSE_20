@@ -1,1 +1,1 @@
-#Contains resource files like project paper, presentation
+# Contains resource files like project paper, presentation
